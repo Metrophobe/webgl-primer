@@ -1,0 +1,27 @@
+{
+  "name": "webgl-primer",
+  "version": "1.0.0",
+  "description": "some basic examples to get your feet wet with webgl ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metrophobe/webgl-primer.git"
+  },
+  "keywords": [
+    "webgl",
+    "threejs",
+    "3d"
+  ],
+  "author": "Metrophobe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metrophobe/webgl-primer/issues"
+  },
+  "homepage": "https://github.com/metrophobe/webgl-primer#readme",
+  "dependencies": {
+    "three": "^0.122.0"
+  }
+}
