@@ -26,6 +26,7 @@ let init = () => {
 
 	//Set the renderer (used below)
 	renderer = new THREE.WebGLRenderer( { antialias: true } );
+	renderer.setPixelRatio( window.devicePixelRatio );
 	renderer.setSize( window.innerWidth, window.innerHeight );
 
 	//add to the document body (as a canvas)
