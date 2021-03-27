@@ -1,9 +1,9 @@
-import audio from './audio.js';
+//import audio from './audio.js'; //this is optional 
 import video from './video.js';
 
 let start = () => 
 {
-    audio.init();
+    //audio.init(); //this is optional 
     video.init();
     video.animate();
 }
