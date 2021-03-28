@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/metrophobe/webgl-primer#readme",
   "dependencies": {
-    "three": "^0.122.0"
+    "dat.gui": "^0.7.7",
+    "three": "^0.126.1"
   }
 }

@@ -1,12 +1,11 @@
-import audio from './audio.js';
+//import audio from './audio.js';
 import video from './video.js';
 
 let start = () => 
 {
-    audio.init();
+ //  audio.init();
     video.init();
     video.animate();
 }
-
 
 document.addEventListener('DOMContentLoaded',start());
